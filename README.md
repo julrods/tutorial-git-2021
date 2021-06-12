@@ -1,1 +1,2 @@
-# tutorial-git-2021
+# Tutorial Git - Ironhack 2021
+creo mi primer modelo
